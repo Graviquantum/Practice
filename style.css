@@ -1,0 +1,17 @@
+.header__link {
+    color:blue;
+}
+a:hover {
+    color:red;
+    font-size: 150%;
+}
+.header__item {
+    list-style: none;
+    text-align: center;
+    font-style: italic;
+    font-size: 150%;
+}
+.header {
+    background-color: cyan;
+}
+    
